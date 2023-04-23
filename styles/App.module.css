@@ -1,0 +1,11 @@
+@media (min-width: 768px) {
+    .contentWidth {
+        max-width: 400px;
+        margin: auto;
+    }
+}
+    @media (max-width: 768px) {
+    .rightContent {
+        display: none;
+    }
+}
